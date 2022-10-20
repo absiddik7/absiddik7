@@ -95,7 +95,7 @@
 </p>
 
 
-### 👉 Backend Development
+<!-- ### 👉 Backend Development
 <p align="left"> 
   &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
@@ -106,16 +106,16 @@
     <img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </a> 
 
-</p>
+</p> -->
 
-### 👉 Databases
+<!-- ### 👉 Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   &emsp;
-</p>
+</p> -->
 
 ### 👉 Software 
 <p>
@@ -132,7 +132,7 @@
   &emsp;
 </p>
 
-### 👉 Tools
+<!-- ### 👉 Tools
 <p>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
@@ -143,7 +143,7 @@
   &emsp;
     <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
   &emsp;
-</p>
+</p> -->
 
 <br>
 <br>
@@ -160,12 +160,12 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="https://absiddik7.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:absiddik7@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  	<!-- <a href="https://absiddik7.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:abubakkar1070@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/absiddik7" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/absiddik7/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/absiddik7/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/absiddik7" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/ab-siddik12/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<!-- <a href="https://www.facebook.com/absiddik7/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<!-- <a href="https://www.instagram.com/absiddik7" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
 </p>
 
 
