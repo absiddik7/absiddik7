@@ -21,7 +21,7 @@
 <br><br>
 
 -  I am a professional Machine Learning Engineer & Mobile App Developer.
--  Currently using `Python`, `TensorFlow`, `Keras` and `OpenCV`for web machine learning<br>
+-  Currently using `Python`, `TensorFlow`, `Keras` and `OpenCV`for machine learning<br>
 
 <br>
 <br>
