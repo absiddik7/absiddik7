@@ -115,7 +115,7 @@
   &emsp;
 </p> -->
 
-### 👉 Software 
+<!-- ### 👉 Software 
 <p>
  &emsp;
     <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
@@ -128,7 +128,7 @@
   &emsp;
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
   &emsp;
-</p>
+</p> -->
 
 <!-- ### 👉 Tools
 <p>
