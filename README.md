@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Laravel+%7C+Vue+js+%7C+Node+js+%7C+PHP+%7C+JavaScript;MySQL%20|%20MongoDB%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Python+%7C+Java+Kotlin+%7C+Dart+Flutter+%7C+C+++%7C;Machine Learning%20|%20App Development%20" alt="Typing SVG" /></a>
 
 <br> 
 <br>
