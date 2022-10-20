@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shyqul islam Reyad</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Abubakkar Siddik</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyqulreyad&label=Profile%20views&color=32CD32&style=plastic" alt="shyqulreyad"/>
-<a href="https://github.com/shyqulreyad" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shyqulreyad?label=Github%20followers&style=plastic&color=32CD32">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=absiddik7&label=Profile%20views&color=32CD32&style=plastic" alt="absiddik7"/>
+<a href="https://github.com/absiddik7" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/absiddik7?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
 <img alt="Age" src="https://img.shields.io/badge/Age-22-%23FF0000.svg?style=plastic&color=32CD32">
 <img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
@@ -16,8 +16,8 @@
 <br> 
 <br>
 
-<h2><picture> <img src = "https://github.com/shyqulreyad/shyqulreyad/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
-<picture> <img align="right" src="https://github.com/shyqulreyad/shyqulreyad/blob/main/images/computer.gif?raw=true" width = 250px></picture>
+<h2><picture> <img src = "https://github.com/absiddik7/absiddik7/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
+<picture> <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
 -  I am a professional full stack developer at `Automation services limited`.
@@ -34,18 +34,18 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyqulreyad" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shyqulreyad&theme=white-green)
+![My github status](https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true)  &emsp; &emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&theme=white-green)
 
 <br>
 <br>
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![shyqulreyad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=shyqulreyad&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+[![absiddik7's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=absiddik7&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 <br>
 
 
@@ -153,7 +153,7 @@
 ##  🏆Github Profile Trophies
 <br>
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=shyqulreyad&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
+	<img src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
 </p>
 <br>
 <br>
@@ -161,16 +161,16 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="https://shyqulreyad.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:shyqulreyad@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/shyqulreyad" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/shyqulreyad/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/shyqulreyad/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/shyqulreyad" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  	<a href="https://absiddik7.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:absiddik7@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/absiddik7" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/absiddik7/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/absiddik7/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/absiddik7" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 
 <br>
 <br>
 <hr>
-Credits: <a href="https://github.com/shyqulreyad">shyqulreyad</a>
+Credits: <a href="https://github.com/absiddik7">absiddik7</a>
