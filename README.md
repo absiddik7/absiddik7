@@ -4,14 +4,14 @@
 <a href="https://github.com/absiddik7" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/absiddik7?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
-<img alt="Age" src="https://img.shields.io/badge/Age-22-%23FF0000.svg?style=plastic&color=32CD32">
+<img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
 <img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
 <br>
 </p>
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Shyqul+Islam+Reyad;professional+full+stack+developer;Laravel+%7C+Vue+js+%7C+Node+js+%7C+PHP+%7C+JavaScript;MySQL%20|%20MongoDB%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Laravel+%7C+Vue+js+%7C+Node+js+%7C+PHP+%7C+JavaScript;MySQL%20|%20MongoDB%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 
 <br> 
 <br>
@@ -20,10 +20,9 @@
 <picture> <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
--  I am a professional full stack developer at `Automation services limited`.
+-  I am a professional Machine Learning Engineer & Mobile App Developer.
 -  interested in programming<br>
--  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
--  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
+-  Currently using `Python`, `TensorFlow`, `Keras` and `OpenCV`for web machine learning<br>
 -  Looking to collaborate on Web development using `React`/`Angular`.... <br>
 
 <br>
@@ -44,9 +43,9 @@
 <br>
 <br>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<!-- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 [![absiddik7's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=absiddik7&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
-<br>
+<br> -->
 
 
 <br>
