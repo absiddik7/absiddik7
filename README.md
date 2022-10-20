@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Python+%7C+Java+Kotlin+%7C+Dart+Flutter+%7C+C+++%7C;MachineLearning%20|%20AppDevelopment%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Python+%7C+Java+Kotlin+%7C+Dart+Flutter+%7C+C+++%7C;MachineLearning%20|%20AppDevelopment%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a> -->
 
 <br> 
 <br>
@@ -21,9 +21,7 @@
 <br><br>
 
 -  I am a professional Machine Learning Engineer & Mobile App Developer.
--  interested in programming<br>
 -  Currently using `Python`, `TensorFlow`, `Keras` and `OpenCV`for web machine learning<br>
--  Looking to collaborate on Web development using `React`/`Angular`.... <br>
 
 <br>
 <br>
