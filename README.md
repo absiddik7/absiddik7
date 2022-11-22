@@ -19,10 +19,7 @@
 <h2><picture> <img src = "https://github.com/absiddik7/absiddik7/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
 <picture> <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
-
--  I am a professional Machine Learning Engineer & Mobile App Developer.
-
-<br>
+-  I am a Machine Learning Enthusiast & Mobile App Developer.
 <br>
 
 <h2>👀 My github Stats</h2> 
