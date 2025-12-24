@@ -1,169 +1,54 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Abubakkar Siddik</h1>
+### 👋 Hi there, I'm **Md. Abubakkar Siddik**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=absiddik7&label=Profile%20views&color=32CD32&style=plastic" alt="absiddik7"/>
-<a href="https://github.com/absiddik7" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/absiddik7?label=Github%20followers&style=plastic&color=32CD32">
-</a> 
-<img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
-<img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
-<br>
-</p>
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
 
-<br>
+---
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Abubakkar+Siddik;professional+full+stack+developer;Python+%7C+Java+Kotlin+%7C+Dart+Flutter+%7C+C+++%7C;MachineLearning%20|%20AppDevelopment%20|%20NoSQL%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a> -->
+## 👨‍💻 About Me
+I’m a software developer who enjoys building practical, user-focused digital products and continuously improving how systems are designed and delivered. I work across mobile application development, backend integrations, and product thinking—focusing not just on writing code, but on solving real problems efficiently.
 
-<br> 
-<br>
+I’m comfortable working independently or within teams, translating ideas into working solutions, and improving products through iteration and feedback. I value clean architecture, performance, and thoughtful UX, and I’m always exploring better ways to build scalable and maintainable software.
 
-<h2><picture> <img src = "https://github.com/absiddik7/absiddik7/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
-<picture> <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width = 250px></picture>
-<br><br>
--  I am a Machine Learning Enthusiast & Mobile App Developer.
-<br>
+---
 
-<h2>👀 My github Stats</h2> 
-
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&theme=white-green)
-
-<br>
-<br>
-
-<!-- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![absiddik7's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=absiddik7&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
-<br> -->
-
-
-<br>
-<br>
-<br>
-
-
-<!-- ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
-### 👉 Programming languages
-
-<p align="left"> 
- &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/l%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
- 
-</p> -->
-
-
-<!-- ### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://vuejs.org/" target="_blank"> 
-   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  </a>   
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-</p> -->
-
-
-<!-- ### 👉 Backend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://laravel.com/" target="_blank"> 
-   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  </a> 
-
-</p> -->
-
-<!-- ### 👉 Databases
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  &emsp;
-</p> -->
-
-<!-- ### 👉 Software 
+## 🛠️ Skills & Technologies
+### When I build, I work with:
 <p>
- &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?style=plastic&logo=sublime-text&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
-  &emsp;
-</p> -->
-
-<!-- ### 👉 Tools
-<p>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
-  &emsp;
-    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
-  &emsp;
-</p> -->
-
-<br>
-<br>
-
-
-##  🏆Github Profile Trophies
-<br>
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
-</p>
-<br>
-<br>
-
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  	<!-- <a href="https://absiddik7.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:abubakkar1070@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/absiddik7" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ab-siddik12/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<!-- <a href="https://www.facebook.com/absiddik7/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<!-- <a href="https://www.instagram.com/absiddik7" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+**State Management:** BLoC, Provider, GetX  
+**Data & Storage:** SQLite, Hive, SharedPreferences  
+**APIs & Communication:** REST APIs, WebSockets  
+**Tools:** Git, GitHub, Jira, Figma
 
-<br>
-<br>
-<hr>
-Credits: <a href="https://github.com/absiddik7">absiddik7</a>
+---
+
+## 📌 What I’m Currently Focused On
+- Building scalable and maintainable applications  
+- Designing clean UI with meaningful user experience  
+- Working on productivity, health, and habit-based products  
+- Improving architecture, performance, and data handling
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 🐦 X (Twitter): https://x.com/YOUR_HANDLE
+- ✉️ Email: your.email@example.com
+
+---
+
+⭐️ Thanks for visiting my profile. Feel free to explore my repositories and projects.
