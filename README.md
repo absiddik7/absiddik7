@@ -37,11 +37,6 @@ I enjoy working on real-world projects, learning new technologies, and understan
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact" />
 </p>
 <br/>
-<h2>🏆 GitHub Profile Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
-</p>
-<br/>
 <h2>🙋‍♂️ Let's Connect</h2>
 <p align="center">
   <a href="mailto:abubakkar1070@gmail.com" title="Gmail">
