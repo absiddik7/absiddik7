@@ -35,16 +35,35 @@ I enjoy working on real-world projects, learning new technologies, and understan
 
 <br/><br/>
 
-<h2>📊 My GitHub Stats</h2>
+<h2>🚀 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact" />
+  <em>Languages are calculated automatically from my public GitHub repositories.</em>
+</p>
+
+<br/>
+
+<h2>📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <br/>
@@ -52,7 +71,9 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <h2>🏆 GitHub Profile Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20"
+  />
 </p>
 
 <br/>
@@ -60,10 +81,10 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <h2>🙋‍♂️ Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:abubakkar1070@gmail.com" title="Gmail">
+  <a href="mailto:abubakkar1070@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/ab-siddik12/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ab-siddik12/">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
   </a>
 </p>
