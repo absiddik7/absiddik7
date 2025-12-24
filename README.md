@@ -1,84 +1,49 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Hi, I'm Abubakkar Siddik
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=absiddik7&label=Profile%20views&color=32CD32&style=plastic" />
-  <a href="https://github.com/absiddik7">
-    <img src="https://img.shields.io/github/followers/absiddik7?label=GitHub%20Followers&style=plastic&color=32CD32" />
-  </a>
-  <img src="https://img.shields.io/badge/Age-27-style=plastic&color=32CD32" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-style=plastic&color=3EA055" />
+  <img src="https://img.shields.io/github/followers/absiddik7?label=GitHub%20Followers&style=plastic&color=32CD32" />
+  <img src="https://img.shields.io/badge/Age-27-32CD32?style=plastic" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-3EA055?style=plastic" />
 </p>
 
-<br/>
+---
 
-<h2>
-  <picture>
-    <img src="https://github.com/absiddik7/absiddik7/blob/main/images/me.gif?raw=true" width="45px">
-  </picture>
-  About Me
-</h2>
+## 👨‍💻 About Me
 
-<picture>
-  <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width="260px">
-</picture>
+<img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width="260" />
 
-<p>
-I’m a software developer with a strong interest in building reliable, efficient, and user-focused digital products. My work spans mobile application development, system design, and problem-solving, with a mindset focused on writing clean, maintainable code and continuously improving my skills.
-</p>
+I’m a software developer focused on building reliable, efficient, and user-friendly digital products.  
+My interests span mobile development, system design, and problem-solving, with an emphasis on clean architecture, performance, and continuous learning.
 
-<p>
-I enjoy working on real-world projects, learning new technologies, and understanding how products evolve from ideas into usable solutions. I value good architecture, performance, and thoughtful user experience, and I’m always exploring better ways to design and build software.
-</p>
+---
 
-<br/><br/>
+## 🚀 Most Used Languages (Auto-generated)
 
-<h2>🚀 Most Used Languages</h2>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+> This data is generated automatically from my public GitHub repositories.
 
-<p align="center">
-  <em>Languages are calculated automatically from my public GitHub repositories.</em>
-</p>
+---
 
-<br/>
+## 📊 GitHub Stats
 
-<h2>📊 My GitHub Stats</h2>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=absiddik7&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+---
 
-<br/>
+## 🏆 GitHub Trophies
 
-<h2>🏆 GitHub Profile Trophies</h2>
+![Trophies](https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4)
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20"
-  />
-</p>
+---
 
-<br/>
-
-<h2>🙋‍♂️ Let’s Connect</h2>
+## 🙋‍♂️ Let’s Connect
 
 <p align="center">
   <a href="mailto:abubakkar1070@gmail.com">
@@ -89,8 +54,6 @@ I enjoy working on real-world projects, learning new technologies, and understan
   </a>
 </p>
 
-<hr>
+---
 
-<p align="center">
-  Credits: <a href="https://github.com/absiddik7">absiddik7</a>
-</p>
+Credits: **absiddik7**
