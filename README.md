@@ -29,11 +29,12 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <br/><br/>
 <h2>📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8" />
 </p>
 <br/>
 <h2>🏆 GitHub Profile Trophies</h2>
