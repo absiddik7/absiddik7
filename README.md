@@ -8,7 +8,7 @@
   <a href="https://github.com/absiddik7">
     <img src="https://img.shields.io/github/followers/absiddik7?label=GitHub%20Followers&style=plastic&color=32CD32" />
   </a>
-  <img src="https://img.shields.io/badge/Age-23-style=plastic&color=32CD32" />
+  <img src="https://img.shields.io/badge/Age-27-style=plastic&color=32CD32" />
   <img src="https://img.shields.io/badge/Lives-Bangladesh-style=plastic&color=3EA055" />
 </p>
 
@@ -62,9 +62,6 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <p align="center">
   <a href="mailto:abubakkar1070@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
-  </a>
-  <a href="https://github.com/absiddik7" title="GitHub">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
   </a>
   <a href="https://www.linkedin.com/in/ab-siddik12/" title="LinkedIn">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
