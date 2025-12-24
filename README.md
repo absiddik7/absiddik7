@@ -34,7 +34,7 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact" />
 </p>
 <br/>
 <h2>🏆 GitHub Profile Trophies</h2>
