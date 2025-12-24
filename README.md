@@ -35,7 +35,6 @@ I enjoy working on real-world projects, learning new technologies, and understan
   <img src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <br/>
 <h2>🏆 GitHub Profile Trophies</h2>
@@ -56,3 +55,4 @@ I enjoy working on real-world projects, learning new technologies, and understan
 <p align="center">
   Credits: <a href="https://github.com/absiddik7">absiddik7</a>
 </p>
+[![absiddik7's GitHub stats](https://github-readme-stats.vercel.app/api?username=absiddik7)](https://github.com/absiddik7/github-readme-stats)
