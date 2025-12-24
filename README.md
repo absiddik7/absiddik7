@@ -1,54 +1,78 @@
-### 👋 Hi there, I'm **Md. Abubakkar Siddik**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Abubakkar Siddik
+</h1>
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0e75b6&style=flat)
-
----
-
-## 👨‍💻 About Me
-I’m a software developer who enjoys building practical, user-focused digital products and continuously improving how systems are designed and delivered. I work across mobile application development, backend integrations, and product thinking—focusing not just on writing code, but on solving real problems efficiently.
-
-I’m comfortable working independently or within teams, translating ideas into working solutions, and improving products through iteration and feedback. I value clean architecture, performance, and thoughtful UX, and I’m always exploring better ways to build scalable and maintainable software.
-
----
-
-## 🛠️ Skills & Technologies
-### When I build, I work with:
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=absiddik7&label=Profile%20views&color=32CD32&style=plastic" />
+  <a href="https://github.com/absiddik7">
+    <img src="https://img.shields.io/github/followers/absiddik7?label=GitHub%20Followers&style=plastic&color=32CD32" />
+  </a>
+  <img src="https://img.shields.io/badge/Age-23-style=plastic&color=32CD32" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-style=plastic&color=3EA055" />
 </p>
 
-**State Management:** BLoC, Provider, GetX  
-**Data & Storage:** SQLite, Hive, SharedPreferences  
-**APIs & Communication:** REST APIs, WebSockets  
-**Tools:** Git, GitHub, Jira, Figma
+<br/>
 
----
+<h2>
+  <picture>
+    <img src="https://github.com/absiddik7/absiddik7/blob/main/images/me.gif?raw=true" width="45px">
+  </picture>
+  About Me
+</h2>
 
-## 📌 What I’m Currently Focused On
-- Building scalable and maintainable applications  
-- Designing clean UI with meaningful user experience  
-- Working on productivity, health, and habit-based products  
-- Improving architecture, performance, and data handling
+<picture>
+  <img align="right" src="https://github.com/absiddik7/absiddik7/blob/main/images/computer.gif?raw=true" width="260px">
+</picture>
 
----
+<p>
+I’m a software developer with a strong interest in building reliable, efficient, and user-focused digital products. My work spans mobile application development, system design, and problem-solving, with a mindset focused on writing clean, maintainable code and continuously improving my skills.
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+<p>
+I enjoy working on real-world projects, learning new technologies, and understanding how products evolve from ideas into usable solutions. I value good architecture, performance, and thoughtful user experience, and I’m always exploring better ways to design and build software.
+</p>
 
----
+<br/><br/>
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🐦 X (Twitter): https://x.com/YOUR_HANDLE
-- ✉️ Email: your.email@example.com
+<h2>📊 My GitHub Stats</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=absiddik7" />
+</p>
 
-⭐️ Thanks for visiting my profile. Feel free to explore my repositories and projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=absiddik7&show_icons=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absiddik7&layout=compact" />
+</p>
+
+<br/>
+
+<h2>🏆 GitHub Profile Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=absiddik7&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
+</p>
+
+<br/>
+
+<h2>🙋‍♂️ Let’s Connect</h2>
+
+<p align="center">
+  <a href="mailto:abubakkar1070@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+  </a>
+  <a href="https://github.com/absiddik7" title="GitHub">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ab-siddik12/" title="LinkedIn">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  Credits: <a href="https://github.com/absiddik7">absiddik7</a>
+</p>
